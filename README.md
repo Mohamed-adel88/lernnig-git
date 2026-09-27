@@ -1,3 +1,1 @@
 # lernnig-git
-
-hello adel
